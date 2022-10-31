@@ -1,0 +1,13 @@
+Package: simulavr
+Version: 1.1.0
+Architecture: amd64
+Maintainer: Simulavr Devel List <simulavr-devel@nongnu.org>
+Depends: libc6, libsim (=1.1.0)
+Section: electronics
+Priority: optional
+Homepage: https://www.nongnu.org/simulavr/
+Recommends: gcc-avr, binutils-avr
+Description: Atmel AVR simulator
+ simulavr simulates the Atmel AVR family of micro-controllers,
+ emulates a gdb remote target, and displays register and memory
+ information in real time.

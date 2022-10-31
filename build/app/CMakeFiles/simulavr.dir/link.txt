@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simulavr.dir/dumpargs.cpp.o CMakeFiles/simulavr.dir/main.cpp.o CMakeFiles/simulavr.dir/gdbserver.cpp.o CMakeFiles/simulavr.dir/__/libsimulavr/ui.cpp.o CMakeFiles/simulavr.dir/__/libsimulavr/mysocket.cpp.o -o simulavr  -Wl,-rpath,/home/xeder/simulavr/build/libsim: ../libsim/libsim.so 
